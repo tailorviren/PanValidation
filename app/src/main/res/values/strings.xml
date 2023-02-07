@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PanValidation</string>
+    <string name="pan_number">PAN NUMBER</string>
+    <string name="first_of_a_few_steps_to_set_n_you_up_with_a_bank_account">First of a few steps to set\n you up with a Bank Account</string>
+    <string name="i_don_t_have_a_pan">I don\'t have a PAN</string>
+    <string name="next">Next</string>
+    <string name="birthdate">BIRTHDATE</string>
+</resources>
